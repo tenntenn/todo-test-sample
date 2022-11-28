@@ -1,1 +1,0 @@
-INSERT INTO todos (id, title, completed) VALUES (1, 'title', false);
